@@ -12,4 +12,3 @@
 - Zero to Hero by Andrej Karpathy
 - Deep learing specialization by Andrew Ng
 - Cuda Mode youtube series on Programming Massively Parallel Processors
-- 
